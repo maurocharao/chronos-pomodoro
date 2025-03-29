@@ -1,2 +1,2 @@
 # chronos-pomodoro
-App with pomodoro cicles
+React App with pomodoro cicles
